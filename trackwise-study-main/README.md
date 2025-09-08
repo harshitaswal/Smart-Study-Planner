@@ -1,18 +1,13 @@
-# Welcome to your Lovable project
+# Welcome to your Smaert Study Planner project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/3e552a0d-a5ab-47c1-94e0-4d8f4c11d4f4
+**URL**: https://github.com/harshitaswal/Smart-Study-Planner/edit/main/trackwise-study-main/README.md
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/3e552a0d-a5ab-47c1-94e0-4d8f4c11d4f4) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -53,21 +48,10 @@ npm run dev
 ## What technologies are used for this project?
 
 This project is built with:
+-HTML
+-CSS
+-Javascript
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
 ## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/3e552a0d-a5ab-47c1-94e0-4d8f4c11d4f4) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+ https://github.com/harshitaswal/Smart-Study-Planner/edit/main/trackwise-study-main/README.md
